@@ -288,5 +288,4 @@ E assim por diante.
     }
     ```
     
-    ![Untitled](Alocac%CC%A7a%CC%83o%20dina%CC%82mica%2012da454e96b24a0499f77247f88b1117/Untitled.png)
     
